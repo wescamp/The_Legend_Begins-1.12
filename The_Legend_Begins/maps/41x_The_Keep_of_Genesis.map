@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
+Rrc         , Aa          , Aa          , Aa          , Rrc         , Aa          , Cha         , Cha         , Cha         , Aa          , Rrc         , Aa          , Aa          , Aa          , Rrc         
+Aa          , Rrc         , Rrc         , Rrc         , Cha         , Aa          , Aa          , Kha         , Aa          , Aa          , Cha         , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Aa          , Cha         , 2 Kha       , Rr          , Rrc         , Rrc         , Rrc         , Rr          , Kha         , Cha         , Rrc         , Aa          , Aa          
+Aa          , Aa          , Rrc         , Cha         , Rr          , Rrc         , Cha         , Cha         , Cha         , Rrc         , Rr          , Cha         , Rrc         , Aa          , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Cha         , 1 Kha       , Cha         , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Rrc         , Cha         , Kha         , Rrc         , Rrc         , Cha         , Rrc         , Rrc         , Kha         , Cha         , Rrc         , Aa          , Aa          
+Aa          , Aa          , Aa          , Cha         , Cha         , Rr          , Aa          , Rrc         , Rr          , Rr          , Cha         , Cha         , Rrc         , Aa          , Aa          
+Rrc         , Rrc         , Aa          , Rrc         , Rrc         , Aa          , Cha         , Kha         , Cha         , Aa          , Aa          , Rrc         , Aa          , Aa          , Rrc         
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Cha         , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          

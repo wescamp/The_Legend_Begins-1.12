@@ -1,0 +1,18 @@
+border_size=1
+usage=map
+
+Rr          , Rr          , Urb         , Urb         , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Urb         , Urb         , Rr          , Rr          
+Rr          , Rr          , Rr          , Urb         , Urb         , Rr          , Rr          , Rr          , Rr          , Rr          , Urb         , Urb         , Rr          , Rr          , Rr          
+Rr          , Rr          , Rr          , Urb         , Urb         , Rr          , Xos         , Xos         , Xos         , Rr          , Urb         , Urb         , Rr          , Rr          , Rr          
+Rr          , Rr          , Rr          , Rr          , Urb         , Urb         , Cud         , Cud         , Cud         , Urb         , Urb         , Rr          , Rr          , Rr          , Rr          
+Rr          , Rr          , Xos         , Xos         , 1 Cud       , Rr          , Rr          , Rr          , Rr          , Rr          , Cud         , Xos         , Xos         , Rr          , Rr          
+Rr          , Rr          , Xos         , Cud         , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Cud         , Xos         , Rr          , Rr          
+Urb         , Rr          , Urb         , Cud         , Rr          , Rr          , Cud         , 2 Cud       , Cud         , Rr          , Rr          , Cud         , Urb         , Rr          , Urb         
+Urb         , Urb         , Urb         , Rr          , Rr          , Rr          , Cud         , Xos         , Cud         , Rr          , Rr          , Rr          , Urb         , Urb         , Urb         
+Rr          , Rr          , Xos         , Cud         , Rr          , Rr          , Rr          , Cud         , Rr          , Rr          , Rr          , Cud         , Xos         , Rr          , Rr          
+Rr          , Rr          , Xos         , Cud         , Cud         , Rr          , Rr          , Rr          , Rr          , Rr          , Cud         , Cud         , Xos         , Rr          , Rr          
+Rr          , Rr          , Rr          , Xos         , Urb         , Rr          , Cud         , Rr          , Cud         , Rr          , Urb         , Xos         , Rr          , Rr          , Rr          
+Rr          , Rr          , Rr          , Rr          , Urb         , Urb         , Xos         , Cud         , Xos         , Urb         , Urb         , Rr          , Rr          , Rr          , Rr          
+Rr          , Rr          , Rr          , Urb         , Urb         , Rr          , Rr          , Xos         , Rr          , Rr          , Urb         , Urb         , Rr          , Rr          , Rr          
+Rr          , Rr          , Urb         , Urb         , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Urb         , Urb         , Rr          , Rr          
+Rr          , Rr          , Urb         , Urb         , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Rr          , Urb         , Urb         , Rr          , Rr          

@@ -1,0 +1,17 @@
+border_size=1
+usage=map
+
+Wo          , Wo          , Wo          , Ww          , Wo          , Wo          , Ww          , Mm          , Mm          , Mm          , Mm          , Mm^Xm       , Mm^Xm       , Mm          , Mm          , Mm          
+Wo          , Wo          , Ww          , Ww          , Ww          , Ww          , Hh          , Ww          , Co          , Ms          , Ms          , Mm          , Mm          , Mm^Xm       , Mm          , Mm          
+Wo          , Ww          , Co          , Ww          , Hh          , Hh          , Hh          , Co          , Co          , Hh          , 9 Mm        , Mm^Xm       , Mm          , Mm          , Mm^Xm       , Mm          
+Ww          , Ww          , Co          , Co          , Rb          , Hh          , Gd          , Hh          , Rb          , Hh          , Ha          , Mm          , Mm          , Mm          , Mm          , Mm          
+Wo          , Ww          , Hh          , Hh          , Rb          , Gd          , 8 Gd^Vo     , Rb          , Gd          , Hh          , Hh          , Ha          , Co          , Mm^Xm       , Ms          , Mm          
+Wo          , Ww          , Ha          , Hh          , Hh          , Rb          , Rb          , Rb          , 1 Rb        , Gd^Vo       , Gd          , Co          , Co          , Mm^Xm       , Mm^Xm       , Mm          
+Ww          , Ww          , Hh          , Ha          , Hh          , Hh          , Co          , Co          , Co          , Rb          , Rb          , Rb          , Hh          , Mm          , Mm          , Mm          
+Wo          , Ww          , Co          , Hh          , Gd          , Rb          , Co          , 7 Ko        , Co          , Rb          , Co          , Hh          , Hh          , Mm          , Mm^Xm       , Mm          
+Wo          , Ww          , Co          , Co          , Rb          , Rb          , Rb          , Co          , Rb          , Co          , Ko          , Co          , Mm          , Mm          , Mm          , Mm          
+Ww          , Ww          , Hh          , Hh          , Gd          , Gd^Vo       , Rb          , Rb          , Rb          , Co          , Co          , Co          , Mm          , Ms          , Ms          , Mm          
+Wo          , Ww          , Ww          , Ha          , Hh          , Gd          , Rb          , Gd          , Rb          , Rb          , Rb          , Hh          , Hh          , Ms^Xm       , Mm^Xm       , Mm          
+Wo          , Wo          , Ww          , Ha          , Hh          , Co          , Co          , Gd          , Rb          , Gd^Vo       , Rb          , Hh          , Co          , Co          , Mm^Xm       , Mm          
+Wo          , Wo          , Wo          , Ww          , Ww          , Co          , Hh          , Ha          , Rb          , Gd          , Gd          , Rb          , Rb          , Co          , Mm^Xm       , Mm          
+Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Hh          , Ha          , Rb          , Gd          , Gd          , Gd          , Gd          , Mm^Xm       , Mm          , Mm          

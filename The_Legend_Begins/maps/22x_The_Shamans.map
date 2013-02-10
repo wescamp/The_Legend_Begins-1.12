@@ -1,0 +1,20 @@
+border_size=1
+usage=map
+
+Hh          , Hh          , Hh          , Gg          , Gg          , Gg          , Hh          , Gg          , Gg          , Gg          , Hh          , Hh          , Hh          , Gg          , Hh          , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Hh          , Gg          , Hh          , Hh          , Xu          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Hh          , Gg          
+Gg          , Hh          , 9 Gg        , 8 Gg        , Hh          , Gg          , Xu          , Xu          , Rb          , Xu          , Gd          , Hh          , Hh          , Hh          , Gg          , Hh          , Gg          
+Gg          , Hh          , Hh          , Gg          , Xu          , Xu          , Rb          , Rb          , Co          , Rb          , Hhd         , Xu          , Xu          , Gg          , Hh          , Gg          , Hh          
+Hh          , Gg          , Xu          , Xu          , Gd          , Rb          , Gd          , Hhd         , Hhd         , Gd          , Rb          , Rb          , 1 Rb        , Gd          , Xu          , Hh          , Gg          
+Hh          , Xu          , Rb          , Rb          , Hhd         , Rb          , Rb          , Gd          , Ss          , Gd          , Gd          , Rb          , Hhd         , 7 Hhd       , Rb          , Xu          , Gg          
+Hh          , Xu          , Rb          , Co          , Hhd         , Sm          , Ss          , Ss          , Rb          , Rb          , Ss          , Rb          , Rb          , Co          , Rb          , Xu          , Gg          
+Gg          , Xu          , Hhd         , Rb          , Rb          , Gd          , Ss          , Sm          , Ss          , Ss          , Rb          , Hhd         , Ss          , Gd          , Hhd         , Xu          , Hh          
+Gg          , Xu          , Hhd         , Rb          , Rb          , Gd          , Gd          , Rb          , Ss          , Rb          , Rb          , Ss          , Rb          , Hhd         , Rb          , Xu          , Hh          
+Hh          , Xu          , Gd          , Rb          , Ss          , Ss          , Hhd         , Rb          , Sm          , Rb          , Ss          , Hhd         , Rb          , Rb          , Rb          , Xu          , Hh          
+Hh          , Xu          , Rb          , Hhd         , Rb          , Rb          , Ss          , Ss          , Gd          , Sm          , Ss          , Rb          , Rb          , Gd          , Hhd         , Xu          , Gg          
+Gg          , Xu          , Rb          , Co          , Hhd         , Rb          , Rb          , Gd          , Ss          , Ss          , Gd          , Sm          , Hhd         , Co          , Rb          , Xu          , Hh          
+Hh          , Xu          , Xu          , Rb          , Hhd         , Rb          , Rb          , Gd          , Rb          , Hhd         , Rb          , Rb          , Rb          , Hhd         , Xu          , Xu          , Hh          
+Gg          , Gg          , Hh          , Xu          , Xu          , Rb          , Gd          , Hhd         , Co          , Hhd         , Rb          , Rb          , Xu          , Xu          , Hh          , Gg          , Gg          
+Hh          , Gg          , Gg          , Hh          , Gg          , Xu          , Xu          , Rb          , Rb          , Rb          , Xu          , Xu          , Gg          , Hh          , Gg          , Hh          , Gg          
+Hh          , Gg          , Gg          , Hh          , Gg          , Gg          , Hh          , Xu          , Xu          , Xu          , Hh          , Hh          , Hh          , Gg          , Hh          , Gg          , Hh          
+Gg          , Hh          , Gg          , Gg          , Hh          , Gg          , Gg          , Hh          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Hh          , Gg          

@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Ch          , Ch          , Ch          , Ch          , Ch          , Ch          , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Ch          , Ch          , Ch          , Ch          , Ch          , Ch          
+Rrc         , Ch          , Ch          , Ch          , Rrc         , Rrc         , Xol         , Xol         , Iwr         , Xol         , Xol         , Rrc         , Rrc         , Ch          , Ch          , Ch          , Rrc         
+Ch          , Rrc         , Rrc         , Rrc         , Xol         , Xol         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Xol         , Xol         , Rrc         , Rrc         , Rrc         , Ch          
+Ch          , Ch          , Rrc         , Rrc         , Rrc         , Iwr         , Iwr         , Iwr         , 2 Ch        , Iwr         , Iwr         , Iwr         , Rrc         , Rrc         , Rrc         , Ch          , Ch          
+Ch          , Ch          , Rrc         , Xos         , Iwr         , Rrc         , Ch          , Ch          , Rrc         , Ch          , Ch          , Rrc         , Iwr         , Xos         , Rrc         , Ch          , Ch          
+Ch          , Ch          , Rrc         , Xos         , Iwr         , Iwr         , 3 Ch        , Rrc         , 5 Kh        , Rrc         , 4 Ch        , Iwr         , Iwr         , Xos         , Rrc         , Ch          , Ch          
+Ch          , Ch          , Rrc         , Xos         , Iwr         , Iwr         , Ch          , Rrc         , Rrc         , Rrc         , Ch          , Iwr         , Iwr         , Xos         , Rrc         , Ch          , Ch          
+Ch          , Ch          , Rrc         , Xos         , Rrc         , Rrc         , Iwr         , Ch          , 1 Ch        , Ch          , Iwr         , Rrc         , Rrc         , Xos         , Rrc         , Ch          , Ch          
+Ch          , Ch          , Rrc         , Rrc         , Xos         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Xos         , Rrc         , Rrc         , Ch          , Ch          
+Rrc         , Rrc         , Ch          , Rrc         , Rrc         , Xos         , Xos         , Iwr         , Iwr         , Iwr         , Xos         , Xos         , Rrc         , Rrc         , Ch          , Rrc         , Rrc         
+Ch          , Ch          , Ch          , Ch          , Ch          , Rrc         , Rrc         , Xos         , Rrc         , Xos         , Rrc         , Rrc         , Ch          , Ch          , Ch          , Ch          , Ch          
+Ch          , Ch          , Ch          , Ch          , Ch          , Ch          , Ch          , Rrc         , Rrc         , Rrc         , Ch          , Ch          , Ch          , Ch          , Ch          , Ch          , Ch          

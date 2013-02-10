@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Wo          , Ww          , Wo          , Ww          , Ww          , Ww          , Ww          
+Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww          , Gs^Ft       , Ww          
+Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ww^Bw|      , Ww          , Gs          , Gs^Ft       , Gs^Ft       , Ww          , Dd          , Gs          , Gs^Ft       , Gs^Ft       
+Wo          , Wo          , Wo          , Wo          , Wo          , Wo          , Ww          , Ww^Bw\      , Ce          , Ww          , Ww          , Gs^Ft       , Dd          , Dd          , Ce          , Dd          , Dd          , Dd          
+Wo          , Wo          , Wo          , Wo          , Ww          , Ww          , Ww          , Ww          , Ww          , Ww^Bw\      , 2 Ket       , Ce          , Gs          , Dd          , Dd          , Ce          , Dd          , Dd          
+Ww          , Wo          , Ww          , Ww          , Ww          , Ww          , Dd          , Dd          , Gs^Ft       , Ce          , Ce          , Ce          , Gs          , Dd          , Gs          , Ce          , Dd          , Dd          
+Ww          , Ww          , Ww          , Ww          , Gs^Ft       , Gs          , Dd          , Gs^Ft       , Gs          , Ce          , Gs          , Gs          , Gs^Ft       , Dd          , Gs^Ft       , Gs^Ft       , Dd          , Dd          
+Dd          , Ww          , Dd          , Gs^Ft       , Gs^Ft       , Gs          , Dd          , Gs          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Ce          , Dd          , Dd          , Dd          
+Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Ce          , Ce          , Dd          , Gs^Ft       , Ce          , Ce          , Ce          , Gs          , Dd          , Dd          , Dd          
+Dd          , Dd          , Dd          , Gs^Ft       , Gs^Ft       , Dd          , Dd          , Dd          , Ce          , Gs^Ft       , Dd          , Dd          , Dd          , Gs          , 1 Gs^Ft     , Gs^Ft       , Dd          , Dd          
+Dd          , Dd          , Dd          , Gs^Ft       , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Gs^Ft       , Gs          , Gs^Ft       , Dd          , Dd          
+Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          , Dd          

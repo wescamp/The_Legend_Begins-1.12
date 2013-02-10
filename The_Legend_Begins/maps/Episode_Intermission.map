@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          
+Xu          , Xu          , Xol         , Xol         , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xu          , Xol         , Xol         , Xu          , Xu          
+Xu          , Xol         , Uu          , Uu          , Uu          , Xu          , Cud         , Cud         , Cud         , Xu          , Uu          , Uu          , Uu          , Xol         , Xu          
+Xu          , Xu          , Uu^Uf       , Uh          , Uh          , Uh          , Cud         , 1 Kud       , Cud         , Uh          , Uh          , Uh          , Uu^Uf       , Xu          , Xu          
+Qxua        , Qxua        , Uu          , Uu^Uf       , Uu          , Urb         , Urb         , Cud         , Urb         , Urb         , Uu          , Uu^Uf       , Uu          , Qxua        , Qxua        
+Qxua        , Qxua        , Uu          , Uu^Uf       , Uh          , Uu          , Urb         , Ur          , Urb         , Uu          , Uh          , Uu^Uf       , Uu          , Qxua        , Qxua        
+Qxua        , Qxua        , Qxua        , Uu          , Uh          , Uu          , Urb         , Qlf         , Urb         , Uu          , Uh          , Uu          , Qxua        , Qxua        , Qxua        
+Qxua        , Qxua        , Qxua        , Uh          , Uu          , Uu^Uf       , Urb         , Qlf         , Urb         , Uu^Uf       , Uu          , Uh          , Qxua        , Qxua        , Qxua        
+Qxua        , Qxua        , Qxua        , Qxua        , Qxua        , Uu          , Urb         , Qlf         , Urb         , Uu          , Qxua        , Qxua        , Qxua        , Qxua        , Qxua        
+Qxua        , Qxua        , Qxua        , Qxua        , Qxua        , Uu          , Urb         , Urb         , Urb         , Uu          , Qxua        , Qxua        , Qxua        , Qxua        , Qxua        
+Qxua        , Qxua        , Qxua        , Qxua        , Qxua        , Qxua        , Urb         , Urb         , Urb         , Qxua        , Qxua        , Qxua        , Qxua        , Qxua        , Qxua        
+Qxua        , Qxua        , Qxua        , Qxua        , Qxua        , Qxua        , Urb         , Urb         , Urb         , Qxua        , Qxua        , Qxua        , Qxua        , Qxua        , Qxua        
