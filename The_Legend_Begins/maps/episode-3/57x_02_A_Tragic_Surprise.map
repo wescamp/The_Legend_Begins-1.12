@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Rrc         , Gg          , Gg          , Gg^Es       , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg^Es       , Gg^Es       , Gg^Es       , Gg^Es       , Gg          , Rrc         , Rrc         , Gg^Es       , Gg^Es       , Gg          , Gg^Es       , Gg^Es       , Gg          , Gg          
+Rrc         , Gg          , Gg          , 1 Gg^Es     , Rrc         , Gg          , Rb^Dr       , Chr         , Rb^Dr       , Gg          , Rrc^Es      , Gg^Es       , Gg^Es       , Gg          , Rrc         
+Gg          , Rrc         , Rrc         , Rrc         , Chr         , Gg^Es       , Gg^Dr       , Rb^Dr       , Gg          , Gg          , Chr^Es      , Gg^Es       , Gg^Es       , Gg          , Gg          
+Gg          , Gg          , Gg          , Rb^Dr       , Rb^Dr       , Rr^Es       , Rrc         , Rrc         , Rrc         , Rr^Es       , Khr         , Chr^Dr      , Rrc         , Gg          , Gg          
+Gg          , Gg^Es       , Rrc^Es      , Chr         , Rr^Es       , Rrc         , Chr^Dr      , Chr         , Rb^Dr       , Rrc^Es      , Rr          , Chr         , Rrc         , Gg^Es       , Gg          
+Gg          , Gg^Es       , Gg          , Gg          , Gg          , Rrc         , Chr^Dr      , Khr^Es      , Rb^Dr       , Rrc^Es      , Gg          , Gg^Es       , Gg          , Gg          , Gg          
+Gg          , Gg^Es       , Rrc         , Chr         , Rb^Dr       , Rrc^Es      , Rrc         , Chr^Es      , Rrc^Es      , Rrc^Es      , Khr         , Rb^Dr       , Rrc         , Gg          , Gg          
+Gg          , Gg^Es       , Gg^Es       , Rb^Dr       , Chr         , Rr          , Gg          , Rrc^Es      , Rr^Es       , 2 Rr        , Chr         , Rb^Dr       , Rrc         , Gg^Es       , Gg^Es       
+Rrc         , Rrc         , Gg^Es       , Rrc         , Rrc         , Gg          , Chr         , Khr^Es      , Rb^Dr       , Gg^Es       , Gg^Es       , Rrc         , Gg^Es       , Gg^Es       , Rrc         
+Gg          , Gg^Es       , Gg^Es       , Gg^Es       , Gg^Es       , Gg          , Gg          , Rb^Dr       , Rrc         , Gg          , Gg^Es       , Gg          , Gg^Es       , Gg          , Gg          
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          

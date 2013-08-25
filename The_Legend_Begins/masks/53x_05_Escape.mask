@@ -1,0 +1,17 @@
+border_size=1
+usage=map
+
+Mm          , Mm          , Mm          , Mm^Xm       , Xu          , Xu          , Xu          , Xu          , Ur          , Ur          , Uu          , Xu          , Xu          , Xu          
+Mm          , Mm          , Mm          , Mm^Xm       , Xu          , Xu          , Uh          , Uh          , Ur          , Uu          , Uh          , Xu          , Xu          , Mm^Xm       
+Mm          , Mm          , Mm          , Mm^Xm       , Xu          , Xu          , Uh          , Uu^Uf       , Ur          , 1 Uu        , Xu          , Xu          , Mm^Xm       , Mm^Xm       
+Mm          , Mm          , Mm          , Mm^Xm       , Xu          , Xu          , Uu          , Ur          , Uu          , Xu          , Xu          , Mm^Xm       , Mm          , Mm          
+Mm          , Mm          , Mm          , Mm^Xm       , Xu          , Xu          , Uu          , Uu          , Uh          , Xu          , Mm^Xm       , Mm^Xm       , Mm          , Mm          
+Mm          , Mm          , Mm^Xm       , Mm^Xm       , Xu          , Uh          , Ur          , Ur          , Xu          , Xu          , Mm^Xm       , Mm          , Mm          , Mm          
+Mm          , Mm          , Mm^Xm       , Xu          , Xu          , Uh          , Ur          , Uu          , Xu          , Xu          , Mm^Xm       , Mm          , Mm          , Mm          
+Mm          , Mm          , Mm^Xm       , Xu          , Uh          , Ur          , Uu          , Uu          , Xu          , Xu          , Mm^Xm       , Mm          , Mm          , Mm          
+Mm          , Mm          , Mm^Xm       , Xu          , Uu          , Ur          , Uu          , Uh          , Xu          , Mm^Xm       , Mm          , Mm          , Mm          , Mm          
+Mm^Xm       , Mm          , Mm^Xm       , Mm          , Rrc         , Ce          , Rrc         , Xu          , Xu          , Mm^Xm       , Mm^Xm       , Mm          , Mm          , Mm          
+Rrc         , Mm^Xm       , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Mm^Xm       , Mm^Xm       , Mm          , Mm          , Mm          
+Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Mm^Xm       , Mm^Xm       , Mm          , Mm^Xm       , Mm          
+Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Mm^Xm       , Rrc         , Mm^Xm       
+Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         

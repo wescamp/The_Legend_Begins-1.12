@@ -1,0 +1,17 @@
+border_size=1
+usage=map
+
+Gg          , Gg          , Gg          , Gg          , Gg          , Gg          , Ce          , Rrc         , Rrc         , Rrc         , Ce          , Gg          , Gg          , Gg          , Gg          , Gg          , Gg          
+Gg          , Gg          , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gg          , Gg          , Rrc         , Rrc         , Rrc         , Gg          , Gg          , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gg          , Gg          
+Gg          , Gg          , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gg          , Ce          , Rrc         , Rrc         , Rrc         , Ce          , Gg          , Gs^Fds      , Gs^Fds      , Gs^Fds      , Gg          , Gg          
+Gg          , Gg          , Ce          , Gs^Fds      , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Gs^Fds      , Ce          , Gg          , Gg          
+Gg          , Gg          , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Gg          , Gg          
+Rrc         , Rrc         , Rrc         , Rrc         , Ch          , Kh          , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Kh          , Ch          , Rrc         , Rrc         , Rrc         , Rrc         
+Rrc         , Rrc         , Ch          , Ch          , Rrc         , Rrc         , Xos         , Rrc         , Ch          , Rrc         , Xos         , Rrc         , Rrc         , Ch          , Ch          , Rrc         , Rrc         
+Ch          , Ch          , Rrc         , Rrc         , Xos         , Xos         , Xos         , Iwr         , Ch          , Iwr         , Xos         , Xos         , Xos         , Rrc         , Rrc         , Ch          , Ch          
+Rrc         , Rrc         , Xos         , Xos         , Iwr         , Iwr         , Xos         , Iwr         , Ch          , Iwr         , Xos         , Iwr         , Iwr         , Xos         , Xos         , Rrc         , Rrc         
+Xos         , Xos         , Iwr         , Iwr         , Iwr         , Iwr         , Xos         , Iwr         , Iwr         , Iwr         , Xos         , Iwr         , Iwr         , Iwr         , Iwr         , Xos         , Xos         
+Xos         , Xos         , Iwr         , Iwr         , Xos         , Iwr^Xz/     , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr^Xz\     , Xos         , Iwr         , Iwr         , Xos         , Xos         
+Xos         , Xos         , Xos         , Iwr         , Xos         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Xos         , Iwr         , Xos         , Xos         , Xos         
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Iwr         , Iwr         , Iwr         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Iwr         , Iwr         , Iwr         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         

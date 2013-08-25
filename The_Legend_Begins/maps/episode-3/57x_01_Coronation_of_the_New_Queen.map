@@ -1,0 +1,20 @@
+border_size=1
+usage=map
+
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Rrc         , Rrc         , Rrc         , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Rrc         , Rrc         , Rrc         , Rrc         , Cha         , Rrc         , Ai          , Rrc         , Cha         , Rrc         , Rrc         , Rrc         , Rrc         , Aa          , Aa          
+Aa          , Rrc         , Cha         , Cha         , Cha         , Cha         , Ai          , Ai          , Ai          , Ai          , Ai          , Cha         , Cha         , Cha         , Cha         , Rrc         , Aa          
+Aa          , Rrc         , Cha         , Kha         , Ai          , Ai          , Ai          , Ai          , Aa          , Ai          , Ai          , Ai          , Ai          , Kha         , Cha         , Rrc         , Aa          
+Aa          , Rrc         , Rrc         , Cha         , Ai          , Ai          , Ai          , Aa          , Gd^Fetd     , Aa          , Ai          , Ai          , Ai          , Cha         , Rrc         , Rrc         , Aa          
+Aa          , Rrc         , Rrc         , Cha         , Ai          , Ai          , Ai          , Aa          , Aa          , Aa          , Ai          , Ai          , Ai          , Cha         , Rrc         , Rrc         , Aa          
+Aa          , Rrc         , Cha         , Cha         , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Ai          , Cha         , Cha         , Rrc         , Aa          
+Aa          , Rrc         , Cha         , Kha         , Cha         , Ai          , Ai          , Ai          , Kha         , Ai          , Ai          , Ai          , Cha         , 1 Kha       , Cha         , Rrc         , Aa          
+Aa          , Rrc         , Rrc         , Cha         , Rrc         , Cha         , Cha         , 3 Kha       , 2 Kha       , Kha         , Cha         , Cha         , Rrc         , Cha         , Rrc         , Rrc         , Aa          
+Aa          , Aa          , Aa          , Rrc         , Rrc         , Cha         , Cha         , Kha         , Kha         , Kha         , Cha         , Cha         , Rrc         , Rrc         , Aa          , Aa          , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Cha         , Cha         , Cha         , Cha         , Cha         , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Rrc         , Cha         , Rrc         , Cha         , Rrc         , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Rrc         , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Rrc         , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Rrc         , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
+Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Rrc         , Rrc         , Rrc         , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          , Aa          
