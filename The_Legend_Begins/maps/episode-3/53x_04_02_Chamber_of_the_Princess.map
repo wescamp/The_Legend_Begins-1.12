@@ -1,0 +1,15 @@
+border_size=1
+usage=map
+
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xol         , Xol         
+Xos         , Xos         , Xos         , Xos         , Xol         , Xos         , Xol         , Xos         , Xol         , Xol         , Uu          , Uu          
+Xos         , Xos         , Xol         , Xol         , Ycp         , Ycp         , Ycp         , Xol         , Uu          , Uu          , Xos         , Xos         
+Xos         , Xol         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Xol         , Xol         , Xos         
+Xos         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Xos         
+Xos         , Xos         , Xos         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Ycp         , Xos         , Xos         
+Xos         , Xos         , Xol         , Xol         , Ycp^Iz\     , Ycp         , Ycp         , Ycp         , Xos         , Xos         , Xos         , Xos         
+Xol         , Xol         , Iwr         , Iwr         , Iwr         , Xol         , Xol         , Xos         , Xos         , Xos         , Xol         , Xol         
+Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Xol         , Xol         , Xol         , Iwr         , Iwr         
+Iwr         , Iwr         , Xos         , Xos         , Xos         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         , Iwr         
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Iwr         , Iwr         , Iwr         , Xos         , Xos         
+Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         , Xos         
